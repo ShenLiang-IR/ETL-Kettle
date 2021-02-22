@@ -1,0 +1,4 @@
+Windows ansi code
+Text type sample
+DeNormalize.txt is UTF_8 code
+中国

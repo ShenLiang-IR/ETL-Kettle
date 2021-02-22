@@ -1,0 +1,4 @@
+group	Subject1	Subject2	Subject3	Subject4	Score1	Score2	Score3	Score4
+叶锟斤拷 	锟斤拷锟�	锟斤拷学	锟斤拷锟�	英锟斤拷	59 	32 	90 	45 
+锟脚癸拷 	锟斤拷锟�	锟斤拷学	锟斤拷锟�	英锟斤拷	73 	83 	93 	63 
+锟斤拷锟� 	锟斤拷锟�	锟斤拷学	锟斤拷锟�	英锟斤拷	74 	84 	94 	61 

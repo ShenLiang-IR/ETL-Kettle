@@ -1,0 +1,16 @@
+Package	Version	flag	sortflag
+Twisted        	19.10.0 	�ヨ��csv��浠�	1
+typing         	3.7.4.1 	�ヨ��csv��浠�	1
+freeze         	3.6.2   	�ヨ����瀹�涔�甯搁��	2
+Pyy            	1.9.0   	�ヨ���哄����浠�	3
+hyperlink      	19.0.0  	�ヨ��gzip�煎�csv	4
+idna           	2.8     	�ヨ��gzip�煎�csv	4
+importlib-metad	0.23    	�ヨ��gzip�煎�csv	4
+six            	1.12.0  	�ヨ��������浠� ����CSV���藉��琛�	5
+sklearn        	0.0     	�ヨ��������浠� ����CSV���藉��琛�	5
+jieba          	3.7.3   	�版��搴�琛ㄨ���	6
+snownlp        	4.2.6   	�版��搴�琛ㄨ���	6
+setuptools     	2.18.0  	�ヨ��xml���版��	7
+tqdm           	4.39.0  	�ヨ��xml���版��	7
+PyHamcrest     	1.0.0   	�ヨ��json���版��	8
+simplejson     	1.4.6   	�ヨ��json���版��	8

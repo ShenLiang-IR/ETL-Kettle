@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<outer>
+	<packages>
+		<package>setuptools</package>
+		<version>2.18.0</version>
+	</packages>
+	<packages>
+		<package>tqdm</package>
+		<version>4.39.0</version>
+	</packages>
+</outer>

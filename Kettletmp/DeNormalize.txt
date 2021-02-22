@@ -1,0 +1,4 @@
+group	Subject1	Subject2	Subject3	Subject4	Score1	Score2	Score3	Score4
+叶公  	语文 	数学 	物理 	英语 	59 	32 	90 	45 
+张冠  	语文 	数学 	物理 	英语 	73 	83 	93 	63 
+李戴  	语文 	数学 	物理 	英语 	74 	84 	94 	61 

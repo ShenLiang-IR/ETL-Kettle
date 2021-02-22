@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<books><book><name>Thinking in Java</name><author>Bruce Eckel </author><publisher>Prentice Hall</publisher><publishyear>2006-2-20</publishyear><pages>1150</pages></book><book><name>Effective Java</name>
+<author>Joshua Bloch</author>
+<publisher>Addison-Wesley Professional</publisher>
+<publishyear>2001-6-05</publishyear>
+<pages>272</pages></book><book><name>Head First Java</name><author>Elisabeth Freeman</author><publisher>O'Reilly Media</publisher>
+<publishyear>2004-11-1</publishyear><pages>678</pages></book></books>

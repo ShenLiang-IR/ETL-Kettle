@@ -1,0 +1,4 @@
+Name	Studentid	chinese	math	physics	english
+ÕÅ¹Ú	1	73	83	93	63
+Àî´÷	2	74	84	94	61
+Ò¶¹«	3	59	32	90	45
