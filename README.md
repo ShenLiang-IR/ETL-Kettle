@@ -11,4 +11,4 @@
 	4 KettleJobFile 文件夹存放Job依赖的数据源  
 	5 KettleOutput、KettleOutput2、Output、Kettletmp 文件夹是转换或者作业对应的输出  
 
-Enjoy it,Feel free to let me know if you have any question!  
+Enjoy it,feel free to let me know if you have any question!  
